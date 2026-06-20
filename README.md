@@ -170,4 +170,4 @@ This project is open source.
 **Mayur Mahindrakar**
 Computer Engineering Student, VIIT Pune
 
-- GitHub: [@mayurmahi](https://github.com/mayurmahi)
+- GitHub:https://github.com/mayurmahi
