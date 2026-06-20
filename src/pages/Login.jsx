@@ -47,7 +47,7 @@ const Login = () => {
             <input type="password" name="password" placeholder="Enter your password" onChange={handleChange} required />
           </div>
           <button className="btn-primary" type="submit" disabled={loading}>
-            {loading ? "Logging in..." : "Login"}
+            {loading ? "Logging in...." : "Login"}
           </button>
         </form>
         <p className="form-footer">Don't have an account? <Link to="/register">Register here</Link></p>
